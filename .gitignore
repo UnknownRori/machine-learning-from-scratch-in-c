@@ -1,0 +1,9 @@
+/dist/
+/temp/
+/.vscode/
+*.o
+*.ii
+*.a
+*.dll
+*.exe
+*.asm
